@@ -1,0 +1,9 @@
+streamlit
+numpy
+matplotlib
+opencv-python
+librosa
+scikit-learn
+pandas
+joblib
+ffmpeg-python
