@@ -8,3 +8,4 @@ pandas
 joblib
 ffmpeg-python
 torch
+torchvision
