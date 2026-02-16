@@ -154,7 +154,7 @@ if uploaded_video and run_analysis:
                 if confidence_score >= 0.7:
                     decision = "Forged / Synthetic"
                 elif confidence_score >= 0.4:
-                    decision = "Suspicious / Possibly Manipulated"
+                    decision = "Possibly Manipulated"
                 else:
                     decision = "Authentic / Original"
 
